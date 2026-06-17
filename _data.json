@@ -1,0 +1,107 @@
+{
+ "keyword": "wrapped eth",
+ "h1": "Wrapped ETH",
+ "brand": "WETH",
+ "niche": "token",
+ "verb": "Wrap",
+ "title": "Wrapped ETH - Open App",
+ "meta_description": "wrapped eth converts ETH into WETH for ERC-20 DeFi use; open the app to wrap or unwrap while keeping native ETH for gas.",
+ "palette": {
+  "mode": "dark",
+  "bg": "#0B0E11",
+  "accent": "#627EEA",
+  "ink": "#FFFFFF"
+ },
+ "hero_h2": "Put ETH in its ERC-20 form",
+ "hero_lead": "wrapped eth is the ERC-20 form of ETH used across Ethereum dapps, letting you deposit native ETH into WETH and redeem it back through the contract when you need gas-ready ETH.",
+ "badge": "Ethereum Token",
+ "widget": {
+  "from": "ETH",
+  "from_net": "Ethereum",
+  "to": "WETH",
+  "to_net": "Ethereum",
+  "action": "Open WrapETH App"
+ },
+ "trust": [
+  "ERC-20 token",
+  "1:1 redeemable",
+  "ETH required for gas"
+ ],
+ "what_is": "WETH is ETH held in a smart contract and represented as an ERC-20 token for Ethereum apps. <a href='https://ethereum.org/wrapped-eth/'>ethereum.org</a> explains that deposits mint WETH and redemptions burn WETH for ETH.",
+ "how": [
+  {
+   "t": "Connect wallet",
+   "d": "Open the app, connect an Ethereum wallet, and confirm you are on the network you intend to use."
+  },
+  {
+   "t": "Choose direction",
+   "d": "Select wrap to deposit ETH for WETH, or unwrap to redeem WETH back into native ETH."
+  },
+  {
+   "t": "Confirm in wallet",
+   "d": "Review the amount and gas cost, then approve the transaction in your wallet."
+  },
+  {
+   "t": "Verify before sending",
+   "d": "Use the correct chain and contract address before moving WETH into DeFi, NFT, or exchange workflows."
+  }
+ ],
+ "points": [
+  {
+   "h": "ERC-20 compatibility",
+   "p": "ETH predates ERC-20, while WETH gives wallets, DEXs, lending markets, and NFT apps a standard token interface."
+  },
+  {
+   "h": "Contract-based redemption",
+   "p": "The mainnet WETH9 contract exposes deposit and withdraw functions, with the verified token page available on <a href='https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2'>Etherscan</a>."
+  },
+  {
+   "h": "Network awareness",
+   "p": "WETH can exist at different addresses on different chains, so users should verify the network and token contract before transfers."
+  }
+ ],
+ "eeat": [
+  {
+   "text": "ethereum.org WETH guide",
+   "url": "https://ethereum.org/wrapped-eth/"
+  },
+  {
+   "text": "Etherscan WETH contract",
+   "url": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+  },
+  {
+   "text": "ERC-20 standard",
+   "url": "https://eips.ethereum.org/EIPS/eip-20"
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is wrapped eth?",
+   "a": "Wrapped eth is WETH, an ERC-20 representation of ETH created by depositing ETH into the WETH smart contract and redeemable back for ETH.",
+   "open": true
+  },
+  {
+   "q": "How do I get wrapped eth?",
+   "a": "Open the app, connect a wallet, choose wrap, enter an ETH amount, and confirm the transaction; keep some native ETH for gas.",
+   "open": false
+  },
+  {
+   "q": "Is wrapped eth the same price as ETH?",
+   "a": "At the contract level, WETH is minted and redeemed 1:1 with ETH, though market quotes can vary slightly across venues.",
+   "open": false
+  },
+  {
+   "q": "Can wrapped eth pay Ethereum gas?",
+   "a": "No. Gas on Ethereum is paid in native ETH, so do not wrap your entire balance if you need to make more transactions.",
+   "open": false
+  },
+  {
+   "q": "Which wrapped eth contract should I verify?",
+   "a": "On Ethereum mainnet, verify 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 on <a href='https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2'>Etherscan</a>; other networks can use different WETH addresses.",
+   "open": false
+  }
+ ],
+ "official_url": "https://www.wrapeth.com/",
+ "official_domain": "wrapeth.com",
+ "footer_note": "This page is not the official app; verify wrapeth.com and contract addresses; educational only, not financial advice."
+}
