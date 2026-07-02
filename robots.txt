@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://wrapped-eth.github.io/sitemap.xml
