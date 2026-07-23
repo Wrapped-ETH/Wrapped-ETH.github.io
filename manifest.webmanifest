@@ -1,0 +1,19 @@
+{
+  "name": "Wrapped ETH",
+  "short_name": "Wrapped ETH",
+  "description": "Wrapped ETH (WETH) is ETH locked in a contract and reissued as an ERC-20 token. Learn how to wrap, unwrap, and swap it, plus what to verify first.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en",
+  "background_color": "#f5f6f8",
+  "theme_color": "#f5f6f8",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
