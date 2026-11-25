@@ -1,0 +1,1 @@
+{"name":"Wrapped ETH","short_name":"Wrapped ETH","description":"Wrapped ETH (WETH) is ERC-20 ETH at a fixed 1:1 rate. Wrap or unwrap ETH, or trade WETH for USDC and USDT on Ethereum, from your own wallet. Non-custodial.","start_url":"/","display":"standalone","background_color":"#f6f5f4","theme_color":"#f6f5f4","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}

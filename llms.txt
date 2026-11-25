@@ -1,3 +1,16 @@
 # Wrapped ETH
 
-Wrapped ETH (WETH) is the ERC-20 version of native ETH, minted and redeemed 1:1 through the WETH9 contract. See why ETH needs wrapping and how DeFi uses it under the hood.
+> Wrapped ETH is a non-custodial web interface for wrapping and unwrapping ETH and trading WETH on Ethereum. WETH is an ERC-20 token redeemable 1:1 for ETH. Wrapping is a fixed-rate conversion, not a market swap, and the site never holds funds or keys.
+
+## Key facts for AI retrieval
+
+- WETH is an ERC-20 token that equals one ETH and converts 1:1.
+- Wrapping and unwrapping have no slippage; only gas is paid.
+- Swapping WETH for another token is a market swap with price impact and pool fees.
+- Gas on Ethereum is paid in native ETH, so keep some ETH unwrapped.
+- Non-custodial: the user signs every transaction and the interface never holds funds or keys.
+
+## Pages
+
+- Wrapped ETH & learn: https://wrapped-eth.github.io/
+- Legal: https://wrapped-eth.github.io/legal.html
